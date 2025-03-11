@@ -1,1 +1,2 @@
-Datenaktualisierung wird getestet
+Datenaktualisierung wird getestet.
+Neue Daten hinzugefügt.
