@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root xmlns="http://schemas.microsoft.com/aspnet/2008/09/webcontrols">
+  <data name="WelcomeMessage" xml:space="preserve">
+    <value>Willkommen bei der Anwendung!</value>
+  </data>
+  <data name="ErrorMessage" xml:space="preserve">
+    <value>Es ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.</value>
+  </data>
+  <data name="SubmitButton" xml:space="preserve">
+    <value>Senden</value>
+  </data>
+  <data name="CancelButton" xml:space="preserve">
+    <value>Abbrechen</value>
+  </data>
+  <data name="UsernameLabel" xml:space="preserve">
+    <value>Benutzername:</value>
+  </data>
+  <data name="PasswordLabel" xml:space="preserve">
+    <value>Passwort:</value>
+  </data>
+  <data name="LoginButton" xml:space="preserve">
+    <value>Anmelden</value>
+  </data>
+</root>
