@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root xmlns="http://schemas.microsoft.com/aspnet/2008/09/webcontrols">
-  <data name="WelcomeMessage" xml:space="preserve">
-    <value>Welcome to the application!</value>
+  <data name="WelcomeMessage updated" xml:space="preserve">
+    <value>Welcome to the application test!</value>
   </data>
   <data name="ErrorMessage" xml:space="preserve">
     <value>Something went wrong. Please try again.</value>
