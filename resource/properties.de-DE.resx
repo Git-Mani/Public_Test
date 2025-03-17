@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root xmlns="http://schemas.microsoft.com/aspnet/2008/09/webcontrols">
   <data name="WelcomeMessage" xml:space="preserve">
-    <value>Willkommen beim Anwendungsupdate!</value>
+    <value>Willkommen bei der Aktualisierung der Anwendung!</value>
   </data>
   <data name="ErrorMessage" xml:space="preserve">
     <value>Es ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.</value>
