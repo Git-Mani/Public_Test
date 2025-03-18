@@ -1,2 +1,2 @@
 Il s'agit de la mise à jour des données de test.
-Nouvelles données ajoutées.
+Nouvelles données ajoutées pour les tests.

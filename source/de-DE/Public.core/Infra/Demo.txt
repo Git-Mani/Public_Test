@@ -1,2 +1,2 @@
 Dies ist eine Aktualisierung der Testdaten.
-Neue Daten hinzugefügt.
+Neue Daten zum Testen hinzugefügt.
