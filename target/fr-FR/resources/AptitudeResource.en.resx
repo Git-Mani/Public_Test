@@ -118,54 +118,54 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AptitudeExpandedDescription" xml:space="preserve">
-    <value>Misst die Vernunftfähigkeit mit Informationen in verbalen, numerischen und abstrakten Formaten.</value>
+    <value>Mesure la capacité à raisonner avec des informations présentées sous forme verbale, numérique et abstraite.</value>
   </data>
   <data name="AptitudeExpandedDescriptionAbstract" xml:space="preserve">
-    <value>Abstrakt – bewertet die Fähigkeit, Sequenzen von Mustern und Beziehungstests zu verstehen.</value>
+    <value>Résumé - évalue la capacité à comprendre les séquences de modèles et de relations mises à jour test.</value>
   </data>
   <data name="AptitudeExpandedDescriptionNumbers" xml:space="preserve">
-    <value>Zahlen – bewertet die Fähigkeit, Muster in einer Reihe von Zahlentests zu identifizieren.</value>
+    <value>Numbers - évalue la capacité à identifier des modèles dans une série de tests de nombres.</value>
   </data>
   <data name="AptitudeExpandedDescriptionNumerical" xml:space="preserve">
-    <value>Numerisch – bewertet die Fähigkeit, numerische Daten zu verstehen, zu interpretieren und auszuwerten.</value>
+    <value>Numérique - évalue la capacité de comprendre, d&apos;interpréter et d&apos;évaluer les données numériques.</value>
   </data>
   <data name="AptitudeExpandedDescriptionRecall" xml:space="preserve">
-    <value>Rückruf – bewertet die Fähigkeit, sich die Figuren und ihre Position in einem Kartenraster richtig zu merken.</value>
+    <value>Rappel - évalue la capacité de se souvenir correctement des chiffres et de leur position dans une grille de cartes.</value>
   </data>
   <data name="AptitudeExpandedDescriptionVerbal" xml:space="preserve">
-    <value>Mündlich – bewertet die Fähigkeit, schriftliche Informationen zu verstehen, zu interpretieren und zu bewerten.</value>
+    <value>Verbal - évalue la capacité de comprendre, d&apos;interpréter et d&apos;évaluer l&apos;information écrite.</value>
   </data>
   <data name="AptitudeExpandedSAVNTitle" xml:space="preserve">
-    <value>Swift-Analyse Verbal Und Numerisch</value>
+    <value>Analyse SWIFT verbale et numérique</value>
   </data>
   <data name="AptitudeExpandedScoreAbstract" xml:space="preserve">
-    <value>Abstrakt</value>
+    <value>Résumé</value>
   </data>
   <data name="AptitudeExpandedScoreNumbers" xml:space="preserve">
-    <value>Zahlen</value>
+    <value>Numéros</value>
   </data>
   <data name="AptitudeExpandedScoreNumerical" xml:space="preserve">
-    <value>Numerisch</value>
+    <value>Numérique</value>
   </data>
   <data name="AptitudeExpandedScoreRecall" xml:space="preserve">
-    <value>Rufen Sie Zurück</value>
+    <value>Rappel</value>
   </data>
   <data name="AptitudeExpandedScoreVerbal" xml:space="preserve">
     <value>Verbal</value>
   </data>
   <data name="AptitudeExpandedSCVNTitle" xml:space="preserve">
-    <value>Schnelles Verstehen Verbal Und Numerisch</value>
+    <value>Compréhension rapide orale et numérique</value>
   </data>
   <data name="AptitudeExpandedSEATitle" xml:space="preserve">
-    <value>Schnelle Führungsfähigkeit</value>
+    <value>Aptitude de cadre SWIFT</value>
   </data>
   <data name="AptitudeExpandedSGATitle" xml:space="preserve">
-    <value>Swift Global Aptitude</value>
+    <value>SWIFT Global aptitude</value>
   </data>
   <data name="AptitudeExpandedSubscoresDescription" xml:space="preserve">
-    <value>Für zusätzliche Einblicke werden Teilbewertungen bereitgestellt. Die Gesamtpunktzahl sollte für Entscheidungszwecke verwendet werden.</value>
+    <value>Des sous-scores sont fournis pour des informations supplémentaires. La note totale doit être utilisée à des fins de prise de décision.</value>
   </data>
   <data name="AptitudeTileTitle" xml:space="preserve">
-    <value>Eignungsfähigkeit</value>
+    <value>Aptitude</value>
   </data>
 </root>
