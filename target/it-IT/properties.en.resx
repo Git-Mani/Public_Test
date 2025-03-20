@@ -4,7 +4,7 @@
     <value>Welcome to the application!</value>
   </data>
   <data name="ErrorMessage" xml:space="preserve">
-    <value>Something went wrong. Please try again.</value>
+    <value>Something went wrong. Please try again test.</value>
   </data>
   <data name="SubmitButton" xml:space="preserve">
     <value>Submits</value>

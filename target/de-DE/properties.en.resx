@@ -4,7 +4,7 @@
     <value>Willkommen bei der Anwendung!</value>
   </data>
   <data name="ErrorMessage" xml:space="preserve">
-    <value>Es ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.</value>
+    <value>Es ist ein Fehler aufgetreten. Versuchen Sie es erneut.</value>
   </data>
   <data name="SubmitButton" xml:space="preserve">
     <value>Weiterleitungen</value>

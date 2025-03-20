@@ -4,7 +4,7 @@
     <value>Bienvenue dans l&apos;application !</value>
   </data>
   <data name="ErrorMessage" xml:space="preserve">
-    <value>Quelque chose s&apos;est mal passé. Veuillez réessayer.</value>
+    <value>Quelque chose s&apos;est mal passé. Veuillez réessayer le test.</value>
   </data>
   <data name="SubmitButton" xml:space="preserve">
     <value>Soumet</value>
