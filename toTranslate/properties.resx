@@ -10,7 +10,7 @@
     <value>Submit</value>
   </data>
   <data name="CancelButton" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Cancels</value>
   </data>
   <data name="UsernameLabel" xml:space="preserve">
     <value>Username:</value>
